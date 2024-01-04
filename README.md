@@ -1,10 +1,10 @@
 # Spring Security JWT Authentication
 
-This repository contains a sample Spring Boot application demonstrating how to implement JSON Web Token (JWT) authentication with Spring Security.
+This repository contains a sample Spring Boot API demonstrating how to implement JSON Web Token (JWT) authentication with Spring Security.
 
 ## Introduction
 
-This project demonstrates how to integrate JSON Web Token (JWT) authentication into a Spring Boot application using Spring Security. JWT is a compact, URL-safe means of representing claims to be transferred between two parties. It's commonly used for authentication and information exchange between systems.
+This project demonstrates how to integrate JSON Web Token (JWT) authentication into a Spring Boot application API using Spring Security. JWT is a compact, URL-safe means of representing claims to be transferred between two parties. It's commonly used for authentication and information exchange between systems.
 
 ## Features
 
